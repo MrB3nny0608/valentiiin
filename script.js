@@ -44,6 +44,6 @@ $(document).ready(function () {
 
   // Redirigir cuando se haga clic en el botón "Siguiente"
   $('#next-button').on('click', function () {
-    window.location.href = 'flores/index.html'; 
+    window.location.href = 'Flor.html'; 
   });
 });
